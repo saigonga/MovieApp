@@ -12,6 +12,10 @@ The app fetches data from [The Movie Database (TMDb)](https://www.themoviedb.org
 - **Search Functionality**: Allows users to search for movies by title.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 
+## Live Demo
+
+Check out the live version of the app here: [React Movie App](https://6820c902ad0af00008484afc--movieapp32.netlify.app/)
+
 ## Installation
 
 1. Clone the repository:
